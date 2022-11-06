@@ -1,5 +1,7 @@
 # RaspberryPi_MITAI2_204_2022Fall
 
+Welcome to IoT with MIT APP Inventor Fundamental Fall Class!
+
 Prerequisite: Proficient in MIT App Inventor with completion of MAI-101.  
  
 Required Equipment: (1) A PC on either Windows or Mac. (2) An Android mobile device. The iOS devices will not work! (3) CanaKit Raspberry PI Kit, (4). Freenove Parts/Device Kit for Raspberry PI (5). 3 servo motors (~$10) Amazon Link   (6). An extra PC monitor, (7). A USB mouse, (8) A USB keyboard.(8) Capstone project materials including two arms (a small bag of popsicle sticks), a clothes-peg, super glue, and an electronics tool kit with screwdrivers.  
