@@ -1,8 +1,15 @@
-# LED CONTROL FROM ANDROID
-# Program: LEDBluetooth_Control.py
-# Date: 2022-12-03
-# Author: X.Tang
-# Version: 1.0
+#
+#      LED Control Program for Android App
+#
+#In this program, LED will connect to GPIO2 on RPi
+#The LED will be turned ON or OFF through Android app
+#
+#
+#Program: LEDBluetooth_Control.py
+#Date: 12-03-2022
+#Author: X.Tang
+#Version: 1.0
+
 
 import socket
 import RPi.GPIO as GPIO
