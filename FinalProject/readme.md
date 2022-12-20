@@ -18,7 +18,7 @@ References:
 
 #### Use bash command to set up enviroment (one command setup)
 ```
-wget -O - https://raw.githubusercontent.com/xctangApp/RaspberryPi_MITAI2_204_2022summer/main/projects/brachio-graph/enviroment-setup.sh | bash
+wget -O - [https://raw.githubusercontent.com/xctangApp/RaspberryPi_MITAI2_204_2022Fall/main/FinalProject/enviroment-setup.sh] | bash
 
 
 ```
